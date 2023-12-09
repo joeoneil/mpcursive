@@ -1,0 +1,8 @@
+shadow = false
+borders = "simple"
+
+[colors]
+    view = "black"
+    primary = "white"
+    secondary = "#c0c0d0"
+    tertiary = "#a0a0b0"

@@ -1,0 +1,2 @@
+[[38;5;27m2023-12-09 18:29:07.438036 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/main.rs:38] [38;5;27mStarting run[0m
+[[38;5;27m2023-12-09 18:29:10.023271 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/main.rs:40] [38;5;27mEnd[0m

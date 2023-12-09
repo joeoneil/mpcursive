@@ -1,8 +1,15 @@
 [package]
-name = "mpcurses"
+name = "mpcursive"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+anyhow = "1.0.75"
+cursive = { version = "0.20.0", features = ["termion-backend", "toml", "ansi"] }
+cursive-flexi-logger-view = "^0"
+flexi_logger = "0.22.6"
+lazy_static = "1.4.0"
+log = "0.4.20"
+mpd = "0.1.0"

@@ -1,0 +1,530 @@
+[2023-11-30 23:45:11.364005 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:19] New Playing
+[2023-11-30 23:45:11.364328 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:29] Update
+[2023-11-30 23:45:11.455559 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:19] New Playing
+[2023-11-30 23:45:11.455723 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:29] Update
+[[38;5;27m2023-11-30 23:45:11.589590 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/main.rs:48] [38;5;27mStarting run[0m
+[[38;5;27m2023-11-30 23:45:11.593578 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:11.635999 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:11.682568 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:11.725886 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:11.772380 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:11.816143 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:11.862042 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:11.905706 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:11.949301 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:11.992767 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.038060 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.082862 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.128458 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.172784 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.218469 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.262671 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.308496 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.353161 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.399552 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.443214 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.489898 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.533183 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.579531 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.623070 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.669944 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.713044 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.758949 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.802870 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.848925 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.893114 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.937891 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:12.982728 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.028526 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.072988 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.118516 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.163182 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.209230 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.253065 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.299850 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.343520 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.388227 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.432766 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.477871 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.522979 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.568005 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.612812 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.658157 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.702977 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.747858 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.792908 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.838835 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.882974 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.928406 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:13.973002 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.018473 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.066841 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.112988 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.156853 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.202874 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.247247 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.293078 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.337171 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.383557 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.426699 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.472984 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.516891 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.562792 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.606869 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.652927 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.697194 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.743809 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.787017 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.833288 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.877029 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.922569 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:14.965787 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.012137 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.056753 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.102110 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.146523 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.192192 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.236525 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.282971 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.327093 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.373914 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.416936 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.464436 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.510394 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.556740 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.600367 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.646278 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.690305 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.736427 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.780133 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.826500 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.869732 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.916224 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:15.958882 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.005885 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.050311 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:16.093201 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:16.093388 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:16.096192 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.140137 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:16.183760 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:16.187070 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.230817 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.277553 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.323487 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.370537 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.413496 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.460119 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.503582 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.550328 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.593811 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.640457 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.683189 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.730923 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.773751 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.821846 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.867017 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.913302 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:16.955504 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.002843 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.046767 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.094073 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.137151 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.184144 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.226943 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.273701 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.316845 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.362402 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.407040 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.453410 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.496776 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.544220 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.586822 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.632712 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.677044 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.724288 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.767041 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.814908 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.860362 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.906799 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.949541 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:17.996529 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.040450 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.088617 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.133233 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.180380 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.223773 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.269458 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.312720 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.359309 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.402930 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.449706 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.492909 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.540952 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.583157 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.629598 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.673170 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.719563 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.763012 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.810057 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.853062 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.899374 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.942912 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:18.989296 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.032931 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.079522 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.123140 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.169412 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.213034 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.260139 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.303042 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.350308 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.393064 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.440024 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.483026 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.530828 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.573390 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.620908 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.663098 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.709912 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.752858 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.799816 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.843264 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.890044 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.932679 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:19.979696 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.022989 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.069557 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.112833 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.160093 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.203240 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.250337 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.293093 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.340122 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.382770 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.430036 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.473142 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.520031 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.563036 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.610201 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.653134 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.699920 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.742998 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.790376 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.833044 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.880049 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.923062 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:20.968988 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.013808 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.060706 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.103612 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.151740 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.196949 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.244961 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.290299 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.338977 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.383903 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.430526 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.473735 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.522223 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.566962 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.615845 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.660524 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:21.703421 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:21.708729 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.753326 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:21.796889 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:21.797105 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:21.797152 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:21.797189 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:21.797238 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:21.801654 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.846962 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:21.889771 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:21.889970 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:21.894335 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:21.939735 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:21.983063 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:21.987586 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:22.029786 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:22.073105 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.073262 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.073310 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.073348 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.073388 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:22.077920 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:22.119520 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:22.162918 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.163073 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:22.167744 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:22.209958 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:22.253034 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:22.258241 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:22.302864 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:22.346107 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.346235 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.346274 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.346303 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.346335 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.346366 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.346398 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:22.350584 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:22.393698 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:22.436526 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.436705 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:22.441065 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:22.483423 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:22.533270 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:22.576670 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:22.619568 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.619725 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.619761 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.619789 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.619817 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.619845 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.619893 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:22.623865 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:22.666459 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:22.709437 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.709565 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.709605 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:22.714109 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:22.759881 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:22.802984 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.803126 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:22.807130 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:22.849518 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:22.892403 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.892538 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.892577 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.892607 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.892638 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.892669 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.892701 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:22.897306 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:22.942944 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:22.986270 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:22.986401 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:22.991165 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.033629 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.082426 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.126397 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:23.169700 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.169868 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.169909 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.169939 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.169972 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.170022 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:23.174689 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.219376 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:23.263435 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.263657 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.263706 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.263742 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:23.268970 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.313182 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:23.356720 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:23.362821 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.406826 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:23.449526 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.449662 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.449694 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.449719 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.449744 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.449768 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.449793 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:23.454291 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.496185 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:23.539702 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.539865 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.539899 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:23.544571 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.590270 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:23.633632 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.633854 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.633902 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.633940 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.633980 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:23.639420 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.683423 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:23.726150 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.726297 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.726330 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.726357 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:23.731058 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.772876 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.820275 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.862780 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:23.906161 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.906281 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.906318 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:23.906346 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:23.911234 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:23.958707 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:24.002828 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.002960 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.003000 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.003031 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:24.008220 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.053098 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.101674 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.146245 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:24.189625 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.189788 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.189823 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.189849 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.189877 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:24.194961 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.239882 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:24.283280 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.283464 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:24.288727 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.333657 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:24.376135 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.376316 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:24.381721 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.426505 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:24.470087 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.470331 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.470385 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.470458 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:24.476803 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.519908 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:24.563290 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.563457 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.563497 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.563528 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.563560 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:24.568902 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.612958 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:24.656489 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.656698 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.656746 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.656783 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.656826 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:24.662275 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.706321 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:24.749254 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.749383 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.749423 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.749454 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:24.754824 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.799592 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.848366 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.892993 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:24.936000 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.936121 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.936155 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.936181 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.936210 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:24.936236 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:24.941897 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:24.986080 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:25.029762 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.029947 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.029997 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:25.036436 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:25.079895 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:25.126459 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:25.169429 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:25.213031 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.213134 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.213165 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.213199 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:25.218258 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:25.262652 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:25.306528 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.306697 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.306757 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:25.311398 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:25.356874 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:25.400239 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.400448 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:25.405050 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:25.449926 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:25.493610 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.493853 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.493906 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.493949 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.493988 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.494046 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:25.499989 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:25.543480 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:25.586849 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.587104 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:25.591977 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:25.636235 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:25.679304 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.679421 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:25.685362 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:25.729729 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:25.772832 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.772968 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.773003 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.773045 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.773073 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:25.779126 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:25.822780 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:25.866083 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:25.872005 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:25.916896 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:25.959130 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.959183 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.959205 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.959216 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[2023-11-30 23:45:25.959226 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:25.961680 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.007189 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:26.050314 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:26.056793 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.100808 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[2023-11-30 23:45:26.143164 -05:00] T[ANSIGenericString { style: Style {}, string: "main" }] INFO [src/view/playing.rs:72] Received event
+[[38;5;27m2023-11-30 23:45:26.149569 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.193578 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.242732 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.286393 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.337386 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.380235 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.429298 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.473508 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.522947 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.567068 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.616759 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.660576 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.709819 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.753675 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.804217 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.847276 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.895442 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.940451 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:26.989037 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.033646 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.083242 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.126237 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.177201 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.220141 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.272499 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.316283 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.366600 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.410001 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.459522 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.504226 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.552390 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.597264 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.646602 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.690296 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.740003 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.783909 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.832704 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.877058 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.926549 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:27.968791 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:28.019001 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:28.064020 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:28.112192 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:28.156444 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:28.206420 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:28.250531 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:28.298916 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:28.342974 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/view/playing.rs:37] [38;5;27mRedraw playing[0m
+[[38;5;27m2023-11-30 23:45:28.389739 -05:00[0m] T[ANSIGenericString { style: Style { fg(Fixed(27)) }, string: "main" }] [38;5;27mDEBUG[0m [src/main.rs:50] [38;5;27mEnd[0m
